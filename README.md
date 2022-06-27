@@ -5,7 +5,9 @@ The languages I can currently code with are:
 + HTML (intermediate)
 + CSS  (intermediate)
 + C++ & C# (intermediate)
-+ Java (beginner)
++ Java (intermediate):
+  + React Library (beginner)
+
 
 I am looking to develop my skills in front-to-back web design and transition into that line of work
 
